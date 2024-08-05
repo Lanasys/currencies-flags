@@ -1,9 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-us" viewBox="0 0 512 512">
-  <path fill="#bd3d44" d="M0 0h512v512H0"/>
-  <path stroke="#fff" stroke-width="40" d="M0 58h512M0 137h512M0 216h512M0 295h512M0 374h512M0 453h512"/>
-  <path fill="#192f5d" d="M0 0h390v275H0z"/>
-  <marker id="us-a" markerHeight="30" markerWidth="30">
-    <path fill="#fff" d="m15 0 9.3 28.6L0 11h30L5.7 28.6"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="flag-icons-us"
+   viewBox="0 0 512 512"
+   version="1.1"
+   sodipodi:docname="USD.svg"
+   inkscape:export-filename="..\png\USD.jpg"
+   inkscape:export-xdpi="37.5"
+   inkscape:export-ydpi="37.5"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1533203"
+     inkscape:cx="-142.63167"
+     inkscape:cy="349.85944"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1672"
+     inkscape:window-y="230"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="flag-icons-us" />
+  <path
+     fill="#bd3d44"
+     d="M0 0h512v512H0"
+     id="path1" />
+  <path
+     stroke="#fff"
+     stroke-width="40"
+     d="M0 58h512M0 137h512M0 216h512M0 295h512M0 374h512M0 453h512"
+     id="path2" />
+  <path
+     fill="#192f5d"
+     d="M0 0h390v275H0z"
+     id="path3" />
+  <marker
+     id="us-a"
+     markerHeight="30"
+     markerWidth="30">
+    <path
+       fill="#fff"
+       d="m15 0 9.3 28.6L0 11h30L5.7 28.6"
+       id="path4" />
   </marker>
-  <path fill="none" marker-mid="url(#us-a)" d="m0 0 18 11h65 65 65 65 66L51 39h65 65 65 65L18 66h65 65 65 65 66L51 94h65 65 65 65L18 121h65 65 65 65 66L51 149h65 65 65 65L18 177h65 65 65 65 66L51 205h65 65 65 65L18 232h65 65 65 65 66z"/>
+  <path
+     fill="none"
+     marker-mid="url(#us-a)"
+     d="m0 0 18 11h65 65 65 65 66L51 39h65 65 65 65L18 66h65 65 65 65 66L51 94h65 65 65 65L18 121h65 65 65 65 66L51 149h65 65 65 65L18 177h65 65 65 65 66L51 205h65 65 65 65L18 232h65 65 65 65 66z"
+     id="path5" />
 </svg>
